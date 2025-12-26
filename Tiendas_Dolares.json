@@ -1,0 +1,154 @@
+{
+  "Dolares": [
+    {
+      "Places": {
+        "id": "01",
+        "Name": "3ra y 70",
+        "Date": "29-10-2025",
+        "Curancy": "USD",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.1124191,
+          "Longitud": -82.4378071
+        },
+        "Products": [
+          {
+            "Arroz": {
+              "Brand": "KDM",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 1.70
+            },
+            "Cerveza": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 0.80
+            },
+            "Cafe_1": {
+              "Brand": "Buenos Dias!",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 4.90
+            },
+            "Cafe_2": {
+              "Brand": "Serrano",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 7.50
+            },
+            "Jugo": {
+              "Brand": "Juss",
+              "Cuantity": "ml",
+              "Weight": 200.0,
+              "Price": 0.60
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.00,
+              "Price": 0.50
+            },
+            "Galletas_Saladas": {
+              "Brand": "TostaCrem",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1.35
+            },
+            "Galletas_Dulces": {
+              "Brand": "Chispas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1.95
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "02",
+        "Name": "La Maya",
+        "Date": "19-10-2025",
+        "Currancy": "USD",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.162897,
+          "Longitud": -82.305556
+        },
+        "Products": [
+          {
+            "Arroz": {
+              "Brand": "KDM",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 1.70
+            },
+            "Leche_Polvo": {
+              "Brand": "Buenos Dias!",
+              "Cuantity": "kg",
+              "Weight": 0.48,
+              "Price": 3.75
+            },
+            "Pollo_Pechuga": {
+              "Brand": "bem",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 13.80
+            },
+            "Lentejas": {
+              "Brand": "La Merced",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 2.10
+            },
+            "Cerveza": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 0.80
+            },
+            "Refresco": {
+              "Brand": "Connus",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 0.85
+            },
+            "Cafe_1": {
+              "Brand": "Buenos Dias!",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 7.45
+            },
+            "Cafe_2": {
+              "Name": "Regil",
+              "Cuantity": "kg",
+              "Weight": 0.9,
+              "Price": 6.20
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.00,
+              "Price": 0.50
+            },
+            "Galletas_Saladas": {
+              "Brand": "TostaCrem",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1.35
+            },
+            "Galletas_Dulces": {
+              "Brand": "Chispas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1.95
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,39 @@
+{
+  "Student_Stipend": [
+    {
+      "Academic_Year": "1er año",
+      "Quantity": 200.0,
+      "Teaching_Aids": 100.0
+    },
+    {
+      "Academic_Year": "2do año",
+      "Quantity": 200.0,
+      "Teaching_Aids": 140.0
+    },
+    {
+      "Academic_Year": "3er año",
+      "Quantity": 300.0,
+      "Teaching_Aids": 180.0
+    },
+    {
+      "Academic_Year": "4to año",
+      "Quantity": 400.0,
+      "Teaching_Aids": 220.0
+    },
+    {
+      "Academic_Year": "5to año",
+      "Quantity": 400.0,
+      "Teaching_Aids": 220.0
+    }
+  ],
+  "Specialities": [
+    {
+      "Academic_Year": "5to año",
+      "Quantity": 852.0
+    },
+    {
+      "Academic_Year": "6to año",
+      "Quantity": 852.0
+    }
+  ]
+}

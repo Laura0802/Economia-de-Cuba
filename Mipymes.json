@@ -1,0 +1,4230 @@
+{
+  "Mipymes": [
+    {
+      "Places": {
+        "id": "01",
+        "Name": "Neptuno entre Aramburu y Soledad",
+        "Date": "15-11-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.136670,
+          "Longitud": -82.378462
+        },
+        "Products": [
+          {
+            "Arroz": {
+              "Brand": "Vivarroz",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Cerveza": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Jabon": {
+              "Brand": "NT",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Pure_Tomate": {
+              "Brand": "U Abuela Mercedes",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 450.0
+            },
+            "Espaghettis": {
+              "Brand": "Lucy",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 150.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 550.0
+            },
+            "Azucar": {
+              "Brand": "Canico",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Jugo": {
+              "Brand": "Tuana",
+              "Cuantity": "ml",
+              "Weight": 200.0,
+              "Price": 170.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "02",
+        "Name": "Belascuain entre Neptuno y San Miguel",
+        "Date": "28-10-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.136978,
+          "Longitud": -82.378452
+        },
+        "Products": [
+          {
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Sopas": {
+              "Brand": "Ria Via",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Espaghettis": {
+              "Brand": "Polozzo",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 500.0
+            },
+            "Refresco_1": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Refresco_2": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Cerveza_1": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Cerveza_2": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Cerveza_3": {
+              "Brand": "Becks",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_4": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 270.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 560.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Marco",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 220.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 2800.0
+            },
+            "Azucar": {
+              "Brand": "Tener",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Sweet Valley",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 560.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "03",
+        "Name": "Infanta esquina Neptuno",
+        "Date": "10-11-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.136670,
+          "Longitud": -82.378462
+        },
+        "Products": [
+          {
+            "Arroz": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Espaghettis": {
+              "Brand": "Gonca",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 350.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 160.0
+            },
+            "Cafe": {
+              "Brand": "Roche",
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 450.0
+            },
+            "Leche_Condensada": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 545.0
+            },
+            "Refresco": {
+              "Brand": "Covey",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 220.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Crokantinas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Doble Deleite",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Azucar": {
+              "Brand": "Mirante",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5400.0
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 180.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "04",
+        "Name": "La Casita",
+        "Date": "3-11-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.139172,
+          "Longitud": -82.375413
+        },
+        "Products": [
+          {
+            "Aceite_1": {
+              "Brand": "LG",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 1250.0
+            },
+            "Aceite_2": {
+              "Brand": "Aldaketa",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 4500.0
+            },
+            "Azucar": {
+              "Brand": "Tener",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Espaghettis": {
+              "Brand": "Ada",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 380.0
+            },
+            "Cafe": {
+              "Brand": "Aroma",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 2300.0
+            },
+            "Cerveza_1": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Cerveza_2": {
+              "Brand": "Lexus",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "cerveza_3": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Bergen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Tentaciones",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Galletas_Dulces_4": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Champu": {
+              "Brand": "Angenta",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1300.0
+            },
+            "Jugo": {
+              "Brand": "Dimes",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 220.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "05",
+        "Name": "La Farola",
+        "Date": "3-11-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.139312,
+          "Longitud": -82.374955
+        },
+        "Products": [
+          {
+            "Desobrante_1": {
+              "Brand": "Dove",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2000.0
+            },
+            "Desobrante_2": {
+              "Brand": "Gillete",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2200.0
+            },
+            "Desobrante_3": {
+              "Brand": "Axe",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1500.0
+            },
+            "Arroz": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.22,
+              "Price": 350.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 550.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 140.0
+            },
+            "Espaghettis": {
+              "Brand": "Doga",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Cafe": {
+              "Brand": "Morro",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1950.0
+            },
+            "Refresco": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_1": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_2": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_3": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Doraditas",
+              "Cuantity": "u",
+              "Weight": 9.0,
+              "Price": 600.0
+            },
+            "Galletas_Saladas_3": {
+              "Brand": "Pit Stop",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Jabon": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Yuppy",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 500.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Doble deleite",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Porlo",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Amore",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Galletas_Dulces_4": {
+              "Brand": "Brinky",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Galletas_Dulces_5": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Sensodyne",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 600.0
+            },
+            "Pollo": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 312.80
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 160.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "06",
+        "Name": "San Rafael entre Marquez Gonzalez y Lucena",
+        "Date": "28-10-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.136067,
+          "Longitud": -82.371610
+        },
+        "Products": [
+          {
+            "Aceite": {
+              "Brand": "Frelav",
+              "Cuantity": "ml",
+              "Weight": 20000.0,
+              "Price": 7500.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Guajiirita",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 560.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 450.0
+            },
+            "Sopas": {
+              "Brand": "Has",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Espaghettis": {
+              "Brand": "Donatella",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 360.0
+            },
+            "Arroz": {
+              "Brand": "Cies",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 680.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 160.0
+            },
+            "Cafe": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 1300.0
+            },
+            "Refresco_1": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 220.0
+            },
+            "Refresco_2": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_1": {
+              "Brand": "Lobo",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_2": {
+              "Brand": "La Bala",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 220.0
+            },
+            "Cerveza_3": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 320.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Salricas",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 700.0
+            },
+            "Jabon": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 600.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 110.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 125.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Amore",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1500.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 8.0,
+              "Price": 200.0
+            },
+            "Azucar": {
+              "Brand": "Pateko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Jugo": {
+              "Brand": "DeCancio",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 180.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "07",
+        "Name": "Santys",
+        "Date": "28-10-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.136072,
+          "Longitud": -82.371438
+        },
+        "Products": [
+          {
+            "Arroz": {
+              "Brand": "Cies",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 550.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 450.0
+            },
+            "Espaghettis": {
+              "Brand": "Ovella",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 320.0
+            },
+            "Papel_Higienico_1": {
+              "Brand": "Tiss",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 400.0
+            },
+            "Papel_Higienico_2": {
+              "Brand": "Rose",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 110.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Dulce",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 280.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Custard Creams",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 750.0
+            },
+            "Aceite": {
+              "Brand": "Tesko",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 990.0
+            },
+            "Jugo_1": {
+              "Brand": "Tuana",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 125.0
+            },
+            "Jugo_2": {
+              "Brand": "One Star",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 125.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "08",
+        "Name": "Stella Artois",
+        "Date": "10-11-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.135885,
+          "Longitud": -82.374399
+        },
+        "Products": [
+          {
+            "Papel_Higienico_1": {
+              "Brand": "Extrela",
+              "Cuantity": "u",
+              "Weight": 12.0,
+              "Price": 1800.0
+            },
+            "Papel_Higienico_2": {
+              "Brand": "La Excelencia ",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 700.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 380.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Apis",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 800.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 180.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Guajirita",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 620.0
+            },
+            "Refresco_1": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Refresco_2": {
+              "Brand": "Coca Cola",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Cerveza": {
+              "Brand": "Sherkels",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Jabon": {
+              "Brand": "Elsa",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Bauducco",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 480.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Amore",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 600.0
+            },
+            "Lentejas": {
+              "Brand": "Goya",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 850.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "9",
+        "Name": "Bodeguita",
+        "Date": "24-10-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.160816,
+          "Longitud": -82.298762
+        },
+        "Products": [
+          {
+            "Azucar": {
+              "Brand": "Energy",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Tropi Gusto",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 540.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Guajirita",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 550.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 385.0
+            },
+            "Arroz": {
+              "Brand": "Pateko",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 650.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 160.0
+            },
+            "Cafe": {
+              "Brand": "Isla Grande",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 1300.0
+            },
+            "Refresco": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 340.0
+            },
+            "Cerveza_2": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Cerveza_3": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Cerveza_4": {
+              "Brand": "Bucanero",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Soda",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 300.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Aldiva",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 195.0
+            },
+            "Jabon": {
+              "Brand": "Cliss",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 155.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 500.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 125.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Bonucci",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Deemah",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 450.0
+            },
+            "Lentejas": {
+              "Brand": "Delcramdo",
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 730.0
+            },
+            "Champu_Acondicionador": {
+              "Brand": "Xtracare",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 2800.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "10",
+        "Name": "Kalifa",
+        "Date": "19-10-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.1677199,
+          "Longitud": -82.2958790
+        },
+        "Products": [
+          {
+            "Aceite": {
+              "Brand": "Saude",
+              "Cuantity": "ml",
+              "Weight": 900.0,
+              "Price": 990.0
+            },
+            "Champu": {
+              "Brand": "Queray",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1642.0
+            },
+            "Sopas": {
+              "Brand": "Adria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 250.0
+            },
+            "Arroz": {
+              "Brand": "Extremo",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 170.0
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 180.0
+            },
+            "Refresco_1": {
+              "Brand": "Pepsi",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 330.0
+            },
+            "Refresco_2": {
+              "Brand": "Santa",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 280.0
+            },
+            "Refresco_3": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Cerveza_1": {
+              "Brand": "Bucanero",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 370.0
+            },
+            "Cerveza_2": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Cerveza_3": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 380.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Salticrackers",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 171.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Dux",
+              "Cuantity": "u",
+              "Weight": 9.0,
+              "Price": 900.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "11",
+        "Name": "La Pampa",
+        "Date": "19-10-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.1615429,
+          "Longitud": -82.3060070
+        },
+        "Products": [
+          {
+            "Aceite": {
+              "Brand": "Saude",
+              "Cuantity": "ml",
+              "Weight": 900.0,
+              "Price": 890.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 500.0
+            },
+            "Leche_Condensada": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 540.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Yily",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 450.0
+            },
+            "Sopas": {
+              "Brand": "Belina",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Arroz": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 180.0
+            },
+            "Jugo": {
+              "Brand": "Sima",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 180.0
+            },
+            "Refresco_1": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 330.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 370.0
+            },
+            "Cerveza_2": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Cerveza_3": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 220.0
+            },
+            "Cerveza_4": {
+              "Brand": "Windmill",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 270.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Crokantinas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Nestle",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Jabon": {
+              "Brand": "NT",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Yeya",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 680.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Marco",
+              "Cuantity": "1u",
+              "Weight": 330.0,
+              "Price": 80.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Escolar",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Bem",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5000.0
+            },
+            "Lentejas": {
+              "Brand": "Goya",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "12",
+        "Name": "Merk2 Marino",
+        "Date": "29-10-2025",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.112360,
+          "Longitud": -82.430514
+        },
+        "Products": [
+          {
+            "Desobrante_1": {
+              "Brand": "Dove",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2200.0
+            },
+            "Desobrante_2": {
+              "Brand": "Rexona",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Holland Park",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Espaghettis": {
+              "Brand": "Ada",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 380.0
+            },
+            "Sal": {
+              "Brand": "Polasal",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 480.0
+            },
+            "Sopas": {
+              "Brand": "Kent",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 250.0
+            },
+            "Arroz": {
+              "Brand": "Vivarroz",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 170.0
+            },
+            "Cafe": {
+              "Brand": "Aroma",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 2000.0
+            },
+            "Refresco": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 340.0
+            },
+            "Cerveza": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Soda",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 90.0
+            },
+            "Jabon": {
+              "Brand": "Rexona",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Rosa",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 650.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Halos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 90.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2150.0
+            },
+            "Lentejas": {
+              "Brand": "Ruano",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 700.0
+            },
+            "Champu": {
+              "Brand": "Dove",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1800.0
+            },
+            "Jugo": {
+              "Brand": "Coknis",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 180.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "13",
+        "Name": "23 entre J e I",
+        "Date": "29-10-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.138261,
+          "Longitud": -82.385447
+        },
+        "Products": [
+          {
+            "Jabon": {
+              "Brand": "Titans",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 550.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Zivet",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colagte",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 950.0
+            },
+            "Pure_Tomate": {
+              "Brand": "La Bella Mesa",
+              "Cuantity": "kg",
+              "Weight": 0.3,
+              "Price": 250.0
+            },
+            "Espaghettis": {
+              "Brand": "Doga",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Pollo": {
+              "Brand": "Golden Phoenix",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 3000.0
+            },
+            "Arroz": {
+              "Brand": "Dona Iza",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 180.0
+            },
+            "Leche_Polvo": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1675.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Crakenas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 140.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Saladitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Trio",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Brinky",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 100.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 550.0
+            },
+            "Cerveza_1": {
+              "Brand": "Belga Star",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Cerveza_2": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Cerveza_3": {
+              "Brand": "Moyoc",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "14",
+        "Name": "Gran Pizzero",
+        "Date": "29-10-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.136743,
+          "Longitud": -82.383931
+        },
+        "Products": [
+          {
+            "Intimas_Diarias": {
+              "Brand": "Angelica",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Leche_Condensada": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Champu_Acondicionador": {
+              "Brand": "XtraCare",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 2000.0
+            },
+            "Arroz": {
+              "Brand": "Pulamho",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Sal": {
+              "Brand": "Eliges",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 600.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 180.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Eliges",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 500.0
+            },
+            "Espaghettis": {
+              "Brand": "Ani",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 400.0
+            },
+            "Lentejas": {
+              "Brand": "Penelas",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 850.0
+            },
+            "Refresco_1": {
+              "Brand": "Pepsi",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Refresco_2": {
+              "Brand": "Santa",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 300.0
+            },
+            "Refresco_3": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Papel_Higienico": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "15",
+        "Name": "La Nenita",
+        "Date": "29-10-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.142646,
+          "Longitud": -82.385271
+        },
+        "Products": [
+          {
+            "Champu_Acondicionador": {
+              "Brand": "XtraCare",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 2500.0
+            },
+            "Arroz": {
+              "Brand": "Guacira",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Dairy Shif",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "SaltinNeol",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 300.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Salricas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Jabon": {
+              "Brand": "Ridel",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Intimas_Diarias": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 450.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Eliges",
+              "Cuantity": "kg",
+              "Weight": 0.59,
+              "Price": 500.0
+            },
+            "Leche_Polvo": {
+              "Brand": "Capri",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1800.0
+            },
+            "Sopas": {
+              "Brand": "Miriko",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 250.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 140.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "16",
+        "Name": "Que Cookie!",
+        "Date": "20-11-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.13992,
+          "Longitud": -82.38087
+        },
+        "Products": [
+          {
+            "Galletas_Saladas_1": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 185.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Soda",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Castellum",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 500.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 6.0,
+              "Price": 350.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Black Out",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 215.0
+            },
+            "Refresco": {
+              "Brand": "Pepsi",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cruzcampo",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 290.0
+            },
+            "Cerveza_2": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 290.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "17",
+        "Name": "La Patron Cita",
+        "Date": "20-11-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.145390,
+          "Longitud": -82.267267
+        },
+        "Products": [
+          {
+            "Galletas_Saladas_1": {
+              "Brand": "Saltine",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 350.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Petit Beurre",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 350.0
+            },
+            "Espaghettis": {
+              "Brand": "Bodrum",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 255.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Br",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 55.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 120.0
+            },
+            "Aceite": {
+              "Brand": null,
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 920.0
+            },
+            "Cerveza": {
+              "Brand": "Tagus",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "18",
+        "Name": "El Tren de Playa",
+        "Date": "24-11-2025",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.11291,
+          "Longitud": -82.42327
+        },
+        "Products": [
+          {
+            "Desobrante_1": {
+              "Brand": "Magali",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 950.0
+            },
+            "Desobrante_2": {
+              "Brand": "Aromas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Champu_Acondicionador": {
+              "Brand": "XtraCare",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 3000.0
+            },
+            "Espaghettis": {
+              "Brand": "Zonia",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 400.0
+            },
+            "Arroz": {
+              "Brand": "Emocoes",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Aceite": {
+              "Brand": "Hysa",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 990.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Victoria",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 500.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "Mili",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 180.0
+            },
+            "Cafe": {
+              "Brand": "Sebraz",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 2000.0
+            },
+            "Refresco": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 390.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 390.0
+            },
+            "Cerveza_2": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Cerveza_3": {
+              "Brand": "Belga Star",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Cerveza_4": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Saltines",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 890.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Dux",
+              "Cuantity": "u",
+              "Weight": 9.0,
+              "Price": 1100.0
+            },
+            "Jabon": {
+              "Brand": "DEX",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Scott",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 1000.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Goya",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 720.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Borgen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 880.0
+            },
+            "Azucar": {
+              "Brand": "Uniao",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 3510.0
+            },
+            "Lentejas": {
+              "Brand": "Don Anecio",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 1200.0
+            },
+            "Jugo": {
+              "Brand": "Coknis",
+              "Cuantity": "ml",
+              "Weight": 220,
+              "Price": 180.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "19",
+        "Name": "Es Aqui",
+        "Date": "2-12-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.161456,
+          "Longitud": -82.303290
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Elessa",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 360.0
+            },
+            "Arroz": {
+              "Brand": "Ridel",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Sal": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 120.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Victoria",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 500.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 150.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Dorbite",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Refresco": {
+              "Brand": "Booms Boom",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Cerveza_1": {
+              "Brand": "Beyou",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_2": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_3": {
+              "Brand": "Damburger",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 230.0
+            },
+            "Cerveza_4": {
+              "Brand": "Chacal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Soda",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 75.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Tiss",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Bora Bora",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 230.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Oppo",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Marco",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 60.0
+            },
+            "Azucar": {
+              "Brand": "Pateko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Sopas": {
+              "Brand": "Has",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Holland Park",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 600.0
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 220,
+              "Price": 190.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "20",
+        "Name": "27 entre N y O",
+        "Date": "5-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.139277,
+          "Longitud": -82.379336
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Rosso",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Arroz": {
+              "Brand": "Plato Rico",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 680.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Ada",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 450.0
+            },
+            "Agua": {
+              "Brand": "Don Aguiar",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 200.0
+            },
+            "Aceite": {
+              "Brand": "Hysa",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 900.0
+            },
+            "Refresco_1": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Cerveza_1": {
+              "Brand": "Beyou",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 210.0
+            },
+            "Cerveza_2": {
+              "Brand": "1830",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_3": {
+              "Brand": "3 Horses",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Prosito",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 300.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Nikito",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 220.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Blackout",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Browni",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Azucar": {
+              "Brand": "Pateko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Leche_Polvo": {
+              "Brand": "La Vaquita",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1200.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Cremar",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 500.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "21",
+        "Name": "Bodegon D'K",
+        "Date": "10-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.14178,
+          "Longitud": -82.38665
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Doga",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 330.0
+            },
+            "Arroz_1": {
+              "Brand": "Pateko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Arroz_2": {
+              "Brand": "Kaibee",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 800.0
+            },
+            "Aceite": {
+              "Brand": "Vima",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 990.0
+            },
+            "Pure_Tomate_1": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 740.0
+            },
+            "Pure_Tomate_2": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 490.0
+            },
+            "Cafe_1": {
+              "Brand": "Buenos Dias!",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1450.0
+            },
+            "Cafe_2": {
+              "Brand": "Don Anecio",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1850.0
+            },
+            "Cafe_3": {
+              "Brand": "Prince",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1750.0
+            },
+            "Azucar": {
+              "Brand": "Energy",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 3300.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Friato",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5300.0
+            },
+            "Sal": {
+              "Brand": "Polasal",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 460.0
+            },
+            "Lentejas": {
+              "Brand": "Penelas",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 1200.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "ml",
+              "Weight": 0.39,
+              "Price": 620.0
+            },
+            "Leche_Polvo": {
+              "Brand": "Lantana",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1675.0
+            },
+            "Jugo": {
+              "Brand": "Tropi Gusto",
+              "Cuantity": "ml",
+              "Weight": 250.0,
+              "Price": 350.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "22",
+        "Name": "Bodegon Las Duras",
+        "Date": "10-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.12275,
+          "Longitud": -82.40522
+        },
+        "Products": [
+          {
+            "Aceite_1": {
+              "Brand": "Vima",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 990.0
+            },
+            "Aceite_2": {
+              "Brand": "Hysa",
+              "Cuantity": "ml",
+              "Weight": 800.0,
+              "Price": 880.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 600.0
+            },
+            "Cafe": {
+              "Brand": "La llave",
+              "Cuantity": "kg",
+              "Weight": 0.28,
+              "Price": 2800.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 3000.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Friato",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5000.0
+            },
+            "Jabon": {
+              "Brand": "Olav",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Jugo": {
+              "Brand": "Tropi Gusto",
+              "Cuantity": "ml",
+              "Weight": 300.0,
+              "Price": 350.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "23",
+        "Name": "Mercadito Hakuna Matata",
+        "Date": "11-12-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.143574,
+          "Longitud": -82.311805
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Pasta del Levante",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 362.0
+            },
+            "Arroz": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 837.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Friato",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5500.0
+            },
+            "Pollo": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 2250.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Ada",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 500.0
+            },
+            "Leche_Polvo": {
+              "Brand": "Mu",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 2875.0
+            },
+            "Aceite": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 1375.0
+            },
+            "Refresco_1": {
+              "Brand": "Booms Boom",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 275.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 312.0
+            },
+            "Cerveza_1": {
+              "Brand": "Parranda",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 275.0
+            },
+            "Cerveza_2": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 275.0
+            },
+            "Cerveza_3": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 400.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Saltinas",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 1000.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Saltine",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 562.0
+            },
+            "Galletas_Saladas_3": {
+              "Brand": "SaltiCrackers",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 175.0
+            },
+            "Papel_Higienico": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 212.0
+            },
+            "Jabon": {
+              "Brand": "Harmony",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 225.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "Angelica",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1875.0
+            },
+            "Champu": {
+              "Brand": "Gilar",
+              "Cuantity": "ml",
+              "Weight": 400.0,
+              "Price": 812.0
+            },
+            "Cafe_1": {
+              "Brand": "Serrano",
+              "Cuantity": "kg",
+              "Weight": 0.125,
+              "Price": 1000.0
+            },
+            "Cafe_2": {
+              "Brand": "Ranchero",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 2000.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Recheado",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 300.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 187.0
+            },
+            "Sal": {
+              "Brand": "Marcum",
+              "Cuantity": "kg",
+              "Weight": 0.737,
+              "Price": 812.0
+            },
+            "Azucar": {
+              "Brand": "Fresko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 812.0
+            },
+            "Sopas": {
+              "Brand": "Maruchan",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 325.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 687.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "24",
+        "Name": "Mercadito M&G",
+        "Date": "11-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.137987,
+          "Longitud": -82.380839
+        },
+        "Products": [
+          {
+            "Pure_Tomate_1": {
+              "Brand": "Gourmet",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 500.0
+            },
+            "Pure_Tomate_2": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 680.0
+            },
+            "Refresco_1": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Agua": {
+              "Brand": "Sultan",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 200.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Salricas",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 650.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 600.0
+            },
+            "Jabon": {
+              "Brand": "Jolie",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 225.0
+            },
+            "Desobrante": {
+              "Brand": "Speed Stick",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1460.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "Nosotras",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1860.0
+            },
+            "Cafe_1": {
+              "Brand": "La llave",
+              "Cuantity": "kg",
+              "Weight": 0.284,
+              "Price": 2350.0
+            },
+            "Cafe_2": {
+              "Brand": "Aroma",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1850.0
+            },
+            "Galletas_Dulces": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Sal": {
+              "Brand": "Polasal",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 720.0
+            },
+            "Lentejas": {
+              "Brand": "Goya",
+              "Cuantity": "kg",
+              "Weight": 0.397,
+              "Price": 860.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Castellum",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 660.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "25",
+        "Name": "May May Mercadito",
+        "Date": "11-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.139864,
+          "Longitud": -82.386700
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Doga",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 310.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Tukas",
+              "Cuantity": "kg",
+              "Weight": 0.41,
+              "Price": 590.0
+            },
+            "Aceite": {
+              "Brand": "Ada",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 1150.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 10.0,
+              "Price": 440.0
+            },
+            "Refresco_1": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Refresco_2": {
+              "Brand": "Sprite",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 410.0
+            },
+            "Refresco_3": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Agua": {
+              "Brand": "Niagara",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 200.0
+            },
+            "Cerveza_1": {
+              "Brand": "Lobo",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 250.0
+            },
+            "Cerveza_2": {
+              "Brand": "Corona",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 690.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Royale",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Jabon": {
+              "Brand": "Elsa",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Desobrante": {
+              "Brand": "Speed Stick",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1460.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "Nosotras",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1860.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Cremas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Chocorisas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 90.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Vai Vai",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Jugo": {
+              "Brand": "La Estancia",
+              "Cuantity": "ml",
+              "Weight": 200.0,
+              "Price": 210.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "26",
+        "Name": "Mercadito 112",
+        "Date": "11-12-2025",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.096684,
+          "Longitud": -82.448197
+        },
+        "Products": [
+          {
+            "Sal": {
+              "Brand": "Marcum",
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 650.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Sweet Valley",
+              "Cuantity": "ml",
+              "Weight": 0.39,
+              "Price": 580.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Eliges",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 340.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Maria",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 230.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Hipopo",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 200.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "Saba",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 3800
+            },
+            "Champu": {
+              "Brand": "NT",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 700
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "27",
+        "Name": "La Nave",
+        "Date": "11-12-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.154132,
+          "Longitud": -82.331793
+        },
+        "Products": [
+          {
+            "Pollo_Pechuga": {
+              "Brand": "Levo",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5600.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 3300.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Crokantinas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 170.0
+            },
+            "Galletas_Dulces": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 130.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "BlackOut",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 155.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Bauducco",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 450.0
+            },
+            "Espaghettis_1": {
+              "Brand": "Zonia",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Espaghettis_2": {
+              "Brand": "Porto Bello",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 350.0
+            },
+            "Lentejas": {
+              "Brand": "Del Campo",
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 720.0
+            },
+            "Sopas": {
+              "Brand": "Miriko",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 230.0
+            },
+            "Azucar_1": {
+              "Brand": "Freska",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 790.0
+            },
+            "Leche_Polvo": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1675.0
+            },
+            "Cerveza_1": {
+              "Brand": "Pena",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 220.0
+            },
+            "Cerveza_2": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 290.0
+            },
+            "Cerveza_3": {
+              "Brand": "La Fria",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Cerveza_4": {
+              "Brand": "Lobo",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Jugo": {
+              "Brand": "La Estancia",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 200.0
+            },
+            "Refresco": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Agua": {
+              "Brand": "Aquelle",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 160.0
+            },
+            "Sal": {
+              "Brand": "Polasal",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 450.0
+            },
+            "Azucar_2": {
+              "Brand": "Energy",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Drojo",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 560.0
+            },
+            "Leche_Condensada_1": {
+              "Brand": "La Guajirita",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 630.0
+            },
+            "Leche_Condensada_2": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 630.0
+            },
+            "Cafe": {
+              "Brand": "El Morro",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 2300.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "28",
+        "Name": "Bodegon Oasis",
+        "Date": "11-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.142825,
+          "Longitud": -82.389349
+        },
+        "Products": [
+          {
+            "Pollo_Pechuga": {
+              "Brand": "Friato",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5300.0
+            },
+            "Cafe": {
+              "Brand": "Coviran",
+              "Cuantity": "kg",
+              "Weight": 0.1,
+              "Price": 3000.0
+            },
+            "Galletas_Dulces": {
+              "Brand": "Borgen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 790.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Renata",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 400.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Elgorriaga",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 580.0
+            },
+            "Galletas_Dulces_4": {
+              "Brand": "Troyanas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 365.0
+            },
+            "Galletas_Dulces_5": {
+              "Brand": "Marco",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Espaghettis": {
+              "Brand": "Tu Pasta",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 380.0
+            },
+            "Sopas": {
+              "Brand": "Renata",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 290.0
+            },
+            "Sal": {
+              "Brand": "Polasal",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 485.0
+            },
+            "Champu_Acondicionador": {
+              "Brand": "Natural",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 2940.0
+            },
+            "Desobrante": {
+              "Brand": "Dove",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2400.0
+            },
+            "Jabon": {
+              "Brand": "Kare",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 215.0
+            },
+            "Jugo": {
+              "Brand": "Dimes",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 200.0
+            },
+            "Refresco": {
+              "Brand": "Aquarius",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 1030.0
+            },
+            "Cerveza": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 260.0
+            },
+            "Agua": {
+              "Brand": "Planeta Azul",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 195.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "29",
+        "Name": "Bodegon Wawa",
+        "Date": "11-12-2025",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.126657,
+          "Longitud": -82.422274
+        },
+        "Products": [
+          {
+            "Pollo_Pechuga": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 1890.0
+            },
+            "Leche_Condensada": {
+              "Brand": "La Granjera",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 700.0
+            },
+            "Cafe_1": {
+              "Brand": "Isla Grande",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1750.0
+            },
+            "Cafe_2": {
+              "Brand": "El Aguila",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 3230.0
+            },
+            "Arroz": {
+              "Brand": "Mirhogar",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Lentejas": {
+              "Brand": "Iberia",
+              "Cuantity": "kg",
+              "Weight": 0.34,
+              "Price": 890.0
+            },
+            "Espaghettis": {
+              "Brand": "Monca",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 400.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 6.0,
+              "Price": 250.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Crakenas",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 1430.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Iberia",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 620.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Rellenitas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 140.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Doble Deleite",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Sal": {
+              "Brand": "Marcum",
+              "Cuantity": "kg",
+              "Weight": 0.737,
+              "Price": 730.0
+            },
+            "Azucar": {
+              "Brand": "Energy",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 800.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 730.0
+            },
+            "Refresco_1": {
+              "Brand": "Sprite",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 520.0
+            },
+            "Refresco_2": {
+              "Brand": "Coca Cola",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 460.0
+            },
+            "Refresco_3": {
+              "Brand": "7 Up",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 400.0
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 200.0,
+              "Price": 200.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 350.0,
+              "Price": 400.0
+            },
+            "Cerveza_2": {
+              "Brand": "Corona",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 700.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 650.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "30",
+        "Name": "Kaluch Market",
+        "Date": "11-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.136082,
+          "Longitud": -82.407619
+        },
+        "Products": [
+          {
+            "Pollo_Pechuga": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 6000.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 2300.0
+            },
+            "Arroz": {
+              "Brand": "Pelicano",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 900.0
+            },
+            "Lentejas": {
+              "Brand": "Cister",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 750.0
+            },
+            "Espaghettis": {
+              "Brand": "Galo",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 415.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 10.0,
+              "Price": 550.0
+            },
+            "Aceite": {
+              "Brand": "Vima",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 8800.0
+            },
+            "Galletas_Saladas_1": {
+              "Brand": "Soda",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Galletas_Saladas_2": {
+              "Brand": "Crokantinas",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 185.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Borgen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Vai Vai",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 100.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Goya",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 830.0
+            },
+            "Sal": {
+              "Brand": "Coviran",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1000.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 700.0
+            },
+            "Refresco_1": {
+              "Brand": "Covey",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 400.0
+            },
+            "Refresco_3": {
+              "Brand": "Mirinda",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 400.0
+            },
+            "Jugo": {
+              "Brand": "Dimes",
+              "Cuantity": "ml",
+              "Weight": 200.0,
+              "Price": 300.0
+            },
+            "Agua": {
+              "Brand": "Aquactiva",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 230.0
+            },
+            "Cerveza": {
+              "Brand": "Covey",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 280.0
+            },
+            "Jabon": {
+              "Brand": "Kare",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 270.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Sensodyne",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2100.0
+            },
+            "Desobrante_1": {
+              "Brand": "Obao",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1400.0
+            },
+            "Desobrante_2": {
+              "Brand": "Gillette",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2500.0
+            },
+            "Champu": {
+              "Brand": "Pantene",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 3100.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "31",
+        "Name": "Market Rey",
+        "Date": "11-12-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.154693,
+          "Longitud": -82.333464
+        },
+        "Products": [
+          {
+            "Pollo_Pechuga": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 2.5,
+              "Price": 6560.0
+            },
+            "Espaghettis": {
+              "Brand": "Makarna",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 430.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 10.0,
+              "Price": 550.0
+            },
+            "Aceite": {
+              "Brand": "Vima",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 8800.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 739.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Sabrosisimo",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1087.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Vai Vai",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 100.0
+            },
+            "Sal": {
+              "Brand": "Coviran",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 1000.0
+            },
+            "Cafe": {
+              "Brand": "Parana",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 2170.0
+            },
+            "Sopas": {
+              "Brand": "TB",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 239.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Sabrosisimo",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 652.0
+            },
+            "Refresco": {
+              "Brand": "Santa",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 348.0
+            },
+            "Cerveza": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 391.0
+            },
+            "Jabon": {
+              "Brand": "Total Care",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 239.0
+            },
+            "Champu": {
+              "Brand": "Comfortime",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 978.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Prosito Especial",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 865.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "32",
+        "Name": "Don Pancho",
+        "Date": "11-12-2025",
+        "Municipality": "Habana del Este",
+        "Location": {
+          "Latitud": 23.160597,
+          "Longitud": -82.297689
+        },
+        "Products": [
+          {
+            "Espaghettis": {
+              "Brand": "Elessa",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 330.0
+            },
+            "Aceite": {
+              "Brand": "Casaliva",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 990.0
+            },
+            "Azucar": {
+              "Brand": "Energy",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 3.0,
+              "Price": 739.0
+            },
+            "Galletas_Dulces_1": {
+              "Brand": "Nikito",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 160.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Hola",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Brinky",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 80.0
+            },
+            "Sopas": {
+              "Brand": "Arwa",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 250.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Virshaan",
+              "Cuantity": "kg",
+              "Weight": 0.4,
+              "Price": 460.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Sweet Valley",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 550.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 150.0
+            },
+            "Refresco": {
+              "Brand": "Monster Moon",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 348.0
+            },
+            "Cerveza_1": {
+              "Brand": "Cristal",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Cerveza_2": {
+              "Brand": "Unlager",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_3": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_4": {
+              "Brand": "La Fria",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
+            },
+            "Cerveza_5": {
+              "Brand": "Parranda",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 200.0
+            },
+            "Jugo": {
+              "Brand": "Tuana",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 180.0
+            },
+            "Jabon": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 150.0
+            },
+            "Papel_Higienico": {
+              "Brand": "La Excelencia",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 500.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "33",
+        "Name": "Xalxa",
+        "Date": "11-12-2025",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": {
+          "Latitud": 23.0,
+          "Longitud": -82.0
+        },
+        "Products": [
+          {
+            "Galletas_Dulces": {
+              "Brand": "Borgen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 830.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Holland Park",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 660.0
+            },
+            "Agua": {
+              "Brand": "Niagara",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 190.0
+            },
+            "Refresco_1": {
+              "Brand": "Fanta",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 300.0
+            },
+            "Refresco_2": {
+              "Brand": "Sprite",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 320.0
+            },
+            "Cerveza_1": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 250.0
+            },
+            "Cerveza_2": {
+              "Brand": "Stella Artois",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 450.0
+            },
+            "Jugo": {
+              "Brand": "Badelli",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 200.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Sadia",
+              "Cuantity": "kg",
+              "Weight": 0.45,
+              "Price": 2890.0
+            },
+            "Jabon_1": {
+              "Brand": "Dalan",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 310.0
+            },
+            "Jabon_2": {
+              "Brand": "Total Care",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 220.0
+            },
+            "Desobrante_1": {
+              "Brand": "Axe",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1170.0
+            },
+            "Desobrante_2": {
+              "Brand": "Dove",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2060.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1260.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "34",
+        "Name": "Ten Cen Mercado",
+        "Date": "16-12-2025",
+        "Municipality": "Centro Habana",
+        "Location": {
+          "Latitud": 23.13172,
+          "Longitud": -82.37344
+        },
+        "Products": [
+          {
+            "Galletas_Dulces_1": {
+              "Brand": "Borgen",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 650.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Porleo",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 180.0
+            },
+            "Galletas_Dulces_3": {
+              "Brand": "Kremali",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 220.0
+            },
+            "Galletas_Dulces_4": {
+              "Brand": "Carnaval",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 140.0
+            },
+            "Galletas_Saladas": {
+              "Brand": "Saltitacos",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 210.0
+            },
+            "Cafe_1": {
+              "Brand": "La Llave",
+              "Cuantity": "kg",
+              "Weight": 0.284,
+              "Price": 5240.0
+            },
+            "Cafe_2": {
+              "Brand": "Isla Grande",
+              "Cuantity": "kg",
+              "Weight": 0.250,
+              "Price": 1800.0
+            },
+            "Sal": {
+              "Brand": "Talkali",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 700.0
+            },
+            "Azucar": {
+              "Brand": "Fresko",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 800.0
+            },
+            "Arroz": {
+              "Brand": "KDM",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 780.0
+            },
+            "Aceite": {
+              "Brand": "Aldameta",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 900.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Vima",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 800.0
+            },
+            "Refresco_1": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 390.0
+            },
+            "Refresco_2": {
+              "Brand": "Coca Cola",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 570.0
+            },
+            "Cerveza_1": {
+              "Brand": "Presidente",
+              "Cuantity": "ml",
+              "Weight": 400.0,
+              "Price": 375.0
+            },
+            "Cerveza_2": {
+              "Brand": "Cristal Extra",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 390.0
+            },
+            "Cerveza_3": {
+              "Brand": "Bucanero",
+              "Cuantity": "ml",
+              "Weight": 400.0,
+              "Price": 440.0
+            },
+            "Cerveza_4": {
+              "Brand": "Heineken",
+              "Cuantity": "ml",
+              "Weight": 400.0,
+              "Price": 600.0
+            },
+            "Jugo": {
+              "Brand": "Del Prado",
+              "Cuantity": "ml",
+              "Weight": 220.0,
+              "Price": 260.0
+            },
+            "Pollo_Pechuga": {
+              "Brand": "Aurora",
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 6500.0
+            },
+            "Jabon": {
+              "Brand": "Ivory",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 220.0
+            },
+            "Desobrante": {
+              "Brand": "Gillette",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 2950.0
+            },
+            "Intimas_Diarias": {
+              "Brand": "A+",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 480.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Encanto",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 900.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Colgate",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1260.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Places": {
+        "id": "35",
+        "Name": "Ko Minimercado",
+        "Date": "16-12-2025",
+        "Municipality": "Playa",
+        "Location": {
+          "Latitud": 23.10019,
+          "Longitud": -82.44860
+        },
+        "Products": [
+          {
+            "Galletas_Dulces_1": {
+              "Brand": "Show Gol",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 270.0
+            },
+            "Galletas_Dulces_2": {
+              "Brand": "Dulce",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 480.0
+            },
+            "Cafe": {
+              "Brand": "Puente",
+              "Cuantity": "kg",
+              "Weight": 0.25,
+              "Price": 1750.0
+            },
+            "Huevos": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 30.0,
+              "Price": 3700.0
+            },
+            "Pan": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 6.0,
+              "Price": 350.0
+            },
+            "Azucar": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 595.0
+            },
+            "Aceite": {
+              "Brand": "Ave",
+              "Cuantity": "ml",
+              "Weight": 1000.0,
+              "Price": 1100.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 500.0,
+              "Price": 190.0
+            },
+            "Leche_Polvo": {
+              "Brand": "Silver Foods",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 3700.0
+            },
+            "Leche_Condensada": {
+              "Brand": "Delicias",
+              "Cuantity": "kg",
+              "Weight": 0.39,
+              "Price": 615.0
+            },
+            "Espaghettis": {
+              "Brand": "Gourmet",
+              "Cuantity": "kg",
+              "Weight": 0.5,
+              "Price": 725.0
+            },
+            "Pure_Tomate": {
+              "Brand": "Gourmet",
+              "Cuantity": "kg",
+              "Weight": 0.35,
+              "Price": 760.0
+            },
+            "Refresco_1": {
+              "Brand": "Booms Boom",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 300.0
+            },
+            "Refresco_2": {
+              "Brand": "Pepsi",
+              "Cuantity": "ml",
+              "Weight": 355.0,
+              "Price": 360.0
+            },
+            "Cerveza_1": {
+              "Brand": "Lobo",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 350.0
+            },
+            "Cerveza_2": {
+              "Brand": "Estella Artois ",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 690.0
+            },
+            "Cerveza_3": {
+              "Brand": "Hollandia",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 295.0
+            },
+            "Jabon": {
+              "Brand": "Mea",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 300.0
+            },
+            "Papel_Higienico": {
+              "Brand": "Micaderm",
+              "Cuantity": "u",
+              "Weight": 4.0,
+              "Price": 598.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

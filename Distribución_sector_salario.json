@@ -1,0 +1,76 @@
+{
+  "Money": [
+    {
+      "Activity": "Agricultura",
+      "Amount": 4455
+    },
+    {
+      "Activity": "Pesca",
+      "Amount": 5842
+    },
+    {
+      "Activity": "Explotación de minas y canteras",
+      "Amount": 7717
+    },
+    {
+      "Activity": "Industria azucarera",
+      "Amount": 4237
+    },
+    {
+      "Activity": "Industria manufacturada",
+      "Amount": 4974
+    },
+    {
+      "Activity": "Suministro de electricidad, gas y agua",
+      "Amount": 5330
+    },
+    {
+      "Activity": "Construcción",
+      "Amount": 7041
+    },
+    {
+      "Activity": "Comercio",
+      "Amount": 6260
+    },
+    {
+      "Activity": "Hoteleria",
+      "Amount": 3760
+    },
+    {
+      "Activity": "Transporte, almacenamiento y comunicaciones",
+      "Amount": 4564
+    },
+    {
+      "Activity": "Intermediación financiera",
+      "Amount": 5590
+    },
+    {
+      "Activity": "Servicio empresariales, actividades inmobiliarias y de alquiler",
+      "Amount": 5926
+    },
+    {
+      "Activity": "Administración pública, defensa, seguridad social",
+      "Amount": 6102
+    },
+    {
+      "Activity": "Ciencia e innovación tecnológica",
+      "Amount": 4424
+    },
+    {
+      "Activity": "Educación",
+      "Amount": 5739
+    },
+    {
+      "Activity": "Salud pública",
+      "Amount": 4222
+    },
+    {
+      "Activity": "Cultura; deporte",
+      "Amount": 3961
+    },
+    {
+      "Activity": "Otras ac.de servicios comunales, de asociaciones y personales",
+      "Amount": 3813
+    }
+  ]
+}

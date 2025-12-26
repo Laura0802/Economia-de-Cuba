@@ -1,0 +1,26 @@
+{
+  "Mipymes": [
+    {
+      "Places": {
+        "id": "00",
+        "Name": "",
+        "Establecimiento": "",
+        "Municipality": "",
+        "Location": {
+          "Latitud": 0.00,
+          "Longitud": 0.00
+        },
+        "Products": [
+          {
+            "Producto": {
+              "Brand": "",
+              "Cuantity": "unit",
+              "Weight": 0.0,
+              "Price": 0.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
