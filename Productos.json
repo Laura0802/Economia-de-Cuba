@@ -9,12 +9,12 @@
       "Quantity": 3.0
     },
     {
-      "Nombre": "Pechuga",
-      "Quantity": 13.0
+      "Nombre": "Pechuga\n de Pollo",
+      "Quantity": 14.0
     },
     {
       "Nombre": "Lentejas",
-      "Quantity": 11.0
+      "Quantity": 12.0
     },
     {
       "Nombre": "Aceite",
@@ -25,11 +25,11 @@
       "Quantity": 17.0
     },
     {
-      "Nombre": "Leche_Polvo",
+      "Nombre": "Leche \n en Polvo",
       "Quantity": 7.0
     },
     {
-      "Nombre": "Condensada",
+      "Nombre": "Leche Condensada",
       "Quantity": 25.0
     },
     {
@@ -46,62 +46,62 @@
     },
     {
       "Nombre": "Refrescos",
-      "Quantity": 46.0
+      "Quantity": 47.0
     },
     {
       "Nombre": "Jugos",
       "Quantity": 22.0
     },
     {
-      "Nombre": "Galletas_Saladas",
+      "Nombre": "Galletas Saladas",
       "Quantity": 39.0
     },
     {
-      "Nombre": "Dulces",
-      "Quantity": 79.0
+      "Nombre": "Galletas Dulces",
+      "Quantity": 80.0
     },
     {
       "Nombre": "Agua",
-      "Quantity": 21.0
-    },
-    {
-      "Nombre": "Cerveza",
-      "Quantity": 71.0
-    },
-    {
-      "Nombre": "Jabon",
       "Quantity": 22.0
     },
     {
-      "Nombre": "Pasta dental",
-      "Quantity": 13.0
+      "Nombre": "Cerveza",
+      "Quantity": 72.0
+    },
+    {
+      "Nombre": "Jabon",
+      "Quantity": 23.0
+    },
+    {
+      "Nombre": "Pasta Dental",
+      "Quantity": 15.0
     },
     {
       "Nombre": "Espaghettis",
       "Quantity": 25.0
     },
     {
-      "Nombre": "Tomate",
+      "Nombre": "Pure de Tomate",
       "Quantity": 29.0
     },
     {
       "Nombre": "Cafe",
-      "Quantity": 23.0
-    },
-    {
-      "Nombre": "Champu",
-      "Quantity": 7.0
-    },
-    {
-      "Nombre": "Acondicionador",
-      "Quantity": 5.0
-    },
-    {
-      "Nombre": "Papel",
       "Quantity": 24.0
     },
     {
-      "Nombre": "Desobrante",
+      "Nombre": "Champu",
+      "Quantity": 8.0
+    },
+    {
+      "Nombre": "Champu y \n Acondicionador",
+      "Quantity": 9.0
+    },
+    {
+      "Nombre": "Papel Higienico",
+      "Quantity": 24.0
+    },
+    {
+      "Nombre": "Desodorante",
       "Quantity": 15.0
     },
     {

@@ -730,7 +730,7 @@ def names_prod():
 """-------------------------------------------------------------------------------------"""
 #Graficos de salario y productos
 def graf_salario_prod():
-    A = ["Arroz", "Pechuga", "Aceite", "Cafe", "Huevo"]
+    A = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (250g)", "Huevo (Carton)"]
     B = [promedio_pri("Arroz"), promedio_pri("Pollo_Pechuga"),
          promedio_pri("Aceite"), promedio_pri("Cafe"), promedio_pri("Huevos")]
 
@@ -761,7 +761,7 @@ def save_dicc():
 #Grafica de productos y dias necesarios
 def graf_count_prod():
 
-    x = ["Arroz", "Pechuga", "Aceite", "Cafe", "Huevo"]
+    x = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (250g)", "Huevo (Carton)"]
     y = [promedio_pri("Arroz")/ salario_dia(), promedio_pri("Pollo_Pechuga")/ salario_dia(), promedio_pri("Aceite")/ salario_dia(), promedio_pri("Cafe")/ salario_dia(), promedio_pri("Huevos")/ salario_dia()]
 
 

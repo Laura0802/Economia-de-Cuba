@@ -1805,6 +1805,12 @@
               "Cuantity": "ml",
               "Weight": 330.0,
               "Price": 290.0
+            },
+            "Galletas_Dulces": {
+              "Brand": null,
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1250.0
             }
           }
         ]
@@ -1847,7 +1853,7 @@
               "Price": 255.0
             },
             "Galletas_Dulces_1": {
-              "Brand": "Br",
+              "Brand": "Broo",
               "Cuantity": "u",
               "Weight": 1.0,
               "Price": 55.0
@@ -1869,6 +1875,30 @@
               "Cuantity": "ml",
               "Weight": 330.0,
               "Price": 230.0
+            },
+            "Jabon": {
+              "Brand": "Jardin Lux",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 105.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Especial",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 320.0
+            },
+            "Agua": {
+              "Brand": "Ciego Montero",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 160.0
+            },
+            "Refresco": {
+              "Brand": "Booms Boom",
+              "Cuantity": "ml",
+              "Weight": 330.0,
+              "Price": 240.0
             }
           }
         ]
@@ -2460,7 +2490,7 @@
               "Weight": 0.4,
               "Price": 600.0
             },
-            "Cafe": {
+            "Cafe_1": {
               "Brand": "La llave",
               "Cuantity": "kg",
               "Weight": 0.28,
@@ -2472,7 +2502,7 @@
               "Weight": 30.0,
               "Price": 3000.0
             },
-            "Pollo_Pechuga": {
+            "Pollo_Pechuga_1": {
               "Brand": "Friato",
               "Cuantity": "kg",
               "Weight": 2.0,
@@ -2489,6 +2519,48 @@
               "Cuantity": "ml",
               "Weight": 300.0,
               "Price": 350.0
+            },
+            "Champu": {
+              "Brand": "Deemah",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 1000.0
+            },
+            "Cerveza": {
+              "Brand": "Parranda",
+              "Cuantity": "ml",
+              "Weight": 300.0,
+              "Price": 230.0
+            },
+            "Champu_Acondicionador": {
+              "Brand": "Lucky",
+              "Cuantity": "u",
+              "Weight": 2.0,
+              "Price": 2000.0
+            },
+            "Lentejas": {
+              "Brand": "Del Campo",
+              "Cuantity": "kg",
+              "Weight": 1.0,
+              "Price": 750.0
+            },
+            "Cafe_2": {
+              "Brand": "El Dorado",
+              "Cuantity": "kg",
+              "Weight": 0.255,
+              "Price": 2600.0
+            },
+            "Pasta_Dientes": {
+              "Brand": "Lucky",
+              "Cuantity": "u",
+              "Weight": 1.0,
+              "Price": 850.0
+            },
+            "Pollo_Pechuga_2": {
+              "Brand": null,
+              "Cuantity": "kg",
+              "Weight": 2.0,
+              "Price": 5300.0
             }
           }
         ]
