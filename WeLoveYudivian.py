@@ -677,7 +677,7 @@ import matplotlib.pyplot as plt
 
 def graf_cant_muni():
     labels = ["Plaza", "Playa", "Habana del Este", "Centro Habana"]
-    value = [12, 6, 9, 9]
+    value = [12, 5, 9, 9]
     colors = ["#FFC0CB", "#FF69B4", "#DB7093", "#C71585"]
 
     fig, ax = plt.subplots()
