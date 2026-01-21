@@ -282,17 +282,11 @@
         },
         "Products": [
           {
-            "Aceite_1": {
+            "Aceite": {
               "Brand": "LG",
               "Cuantity": "ml",
               "Weight": 1000.0,
               "Price": 1250.0
-            },
-            "Aceite_2": {
-              "Brand": "Aldaketa",
-              "Cuantity": "ml",
-              "Weight": 1000.0,
-              "Price": 4500.0
             },
             "Azucar": {
               "Brand": "Tener",
@@ -560,12 +554,6 @@
         },
         "Products": [
           {
-            "Aceite": {
-              "Brand": "Frelav",
-              "Cuantity": "ml",
-              "Weight": 20000.0,
-              "Price": 7500.0
-            },
             "Leche_Condensada": {
               "Brand": "La Guajiirita",
               "Cuantity": "kg",
@@ -3536,12 +3524,6 @@
               "Weight": 10.0,
               "Price": 550.0
             },
-            "Aceite": {
-              "Brand": "Vima",
-              "Cuantity": "ml",
-              "Weight": 1000.0,
-              "Price": 8800.0
-            },
             "Galletas_Saladas_1": {
               "Brand": "Soda",
               "Cuantity": "u",
@@ -3683,12 +3665,6 @@
               "Cuantity": "u",
               "Weight": 10.0,
               "Price": 550.0
-            },
-            "Aceite": {
-              "Brand": "Vima",
-              "Cuantity": "ml",
-              "Weight": 1000.0,
-              "Price": 8800.0
             },
             "Galletas_Saladas": {
               "Brand": "Saltitacos",

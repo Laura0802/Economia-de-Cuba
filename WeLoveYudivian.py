@@ -330,14 +330,14 @@ def graf_tasa_product():
     tasa_informal = 435.0
     tasa_oficial = 24.0
 
-    precio_cup_informal = [m // tasa_informal for m in precio_cup]
-    precio_cup_formal = [f // tasa_oficial for f in precio_cup]
+    precio_cup_informal = [m / tasa_informal for m in precio_cup]
+    precio_cup_formal = [f / tasa_oficial for f in precio_cup]
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
 
     # Gráfico mercado formal
     ax1.bar(productos, precio_cup_formal, color='#EE82EE')
-    ax1.set_title(f'Precios con tasa de cambio formal (Tasa: {tasa_oficial})\n Fecha: 19-11-2025')
+    ax1.set_title(f'Precios con tasa de cambio oficial (Tasa: {tasa_oficial})\n Fecha: 19-11-2025')
     ax1.set_ylabel('Precio en USD')
     ax1.tick_params(axis='x', rotation=45)
 
@@ -835,8 +835,8 @@ def graf_comp_usd_cup():
     indices = np.arange(len(productos))
     colors = ["#DA70D6", "#FF00FF"]
 
-    ax.bar(indices - ancho_barra/2, x1, ancho_barra, label='CUP', alpha=0.8, color= colors[0])
-    ax.bar(indices + ancho_barra/2, x2, ancho_barra, label='USD', alpha=0.8, color= colors[1])
+    ax.bar(indices - ancho_barra/2, x1, ancho_barra, label='CUP', color= colors[0])
+    ax.bar(indices + ancho_barra/2, x2, ancho_barra, label='USD', color= colors[1])
 
     ax.set_xlabel('Productos')
     ax.set_ylabel('Precio')
