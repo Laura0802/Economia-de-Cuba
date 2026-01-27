@@ -1,6 +1,4 @@
 import json
-import matplotlib.pyplot as plt
-import numpy as np
 """-----------------------------------------------------------------------------------------------------------------"""
 def abrir():
     with open("Estipendios.json", "r", encoding="utf-8") as h:
@@ -255,7 +253,7 @@ def estipendio_estudiantil():
 
    fig, ax = plt.subplots()
    ax.bar(x=x, height=y, width=0.6, color="#FF69B4", edgecolor="w")
-   plt.title('Estipendio estudiantil en relación con el año académico', style="italic")
+   plt.title('Estipendio Estudiantil por Año Académico', style="italic")
    ax.set_xlabel('Año')
    ax.set_ylabel('Cantidad de dinero')
    plt.xticks(rotation=45)
@@ -286,8 +284,8 @@ def graf_sector_salary():
    plt.yticks(fontsize=14)
    plt.xticks(rotation=45, ha='right', fontsize=12)
    plt.xlabel('Actividad económica', fontsize=16)
-   plt.ylabel('Salario mensual ($)', fontsize=16)
-   plt.title('Distribución por sector y su salario en 2023', fontsize=20)
+   plt.ylabel('Salario promedio mensual ($)', fontsize=16)
+   plt.title('Distribución por Sector Laboral y su Salario 2023', fontsize=20)
    plt.grid(True, alpha=0.3)
    plt.tight_layout()
 
@@ -314,9 +312,9 @@ def tasa_cambio():
     cols = ['#C71585', '#DB7093', '#FFC0CB']
     fig, ax = plt.subplots()
     ax.stackplot(x, y, labels=["EUR", "USD", "MLC"], colors=cols)
-    plt.title('Tasa de cambio en el mercado informal durante 30 dias (21-10-2025 - 21-11-2025)', style="italic")
-    ax.set_xlabel('Dias')
-    ax.set_ylabel('Cambio')
+    plt.title('Evolución de la Tasa de Cambio en el Mercado Informal durante 30 dias \n 21-10-2025 - 21-11-2025', style="italic")
+    ax.set_xlabel('Dia')
+    ax.set_ylabel('Tasa de cambio')
     ax.legend(loc='upper left')
     ax.stackplot(x, y, colors=cols)
     plt.show()
@@ -324,7 +322,7 @@ def tasa_cambio():
 """-------------------------------------------------------------------------------------"""
 #Grafica de tasa de cambio y productos de primera necesidad
 def graf_tasa_product():
-    productos = ['Aceite', 'Pechuga', 'Arroz', 'Huevos', 'Cafe']
+    productos = ['Aceite(1l)', 'Pechuga(2kg)', 'Arroz(1kg)', 'Huevos(Carton)', 'Cafe(0.25kg)']
     precio_cup = [promedio_pri("Aceite"), promedio_pri("Pollo_Pechuga"), promedio_pri("Arroz"), promedio_pri("Huevos"),
               promedio_pri("Cafe")]
     tasa_informal = 435.0
@@ -337,13 +335,13 @@ def graf_tasa_product():
 
     # Gráfico mercado formal
     ax1.bar(productos, precio_cup_formal, color='#EE82EE')
-    ax1.set_title(f'Precios con tasa de cambio oficial (Tasa: {tasa_oficial})\n Fecha: 19-11-2025')
+    ax1.set_title(f'Precios con Tasa de Cambio Oficial (Tasa: {tasa_oficial})\n Fecha: 19-11-2025')
     ax1.set_ylabel('Precio en USD')
     ax1.tick_params(axis='x', rotation=45)
 
    # Gráfico mercado informal
     ax2.bar(productos, precio_cup_informal, color='#DDA0DD')
-    ax2.set_title(f'Precios con tasa de cambio informal (Tasa: {tasa_informal})\n Fecha: 19-11-2025')
+    ax2.set_title(f'Precios con Tasa de Cambio Informal (Tasa: {tasa_informal})\n Fecha: 19-11-2025')
     ax2.set_ylabel('Precio en USD')
     ax2.tick_params(axis='x', rotation=45)
 
@@ -377,9 +375,9 @@ def graf_salario():
     plt.yticks(fontsize=14)
     plt.yticks(fontsize=14)
     plt.xticks(rotation=45, ha='right', fontsize=12)
-    plt.xlabel('Salario mensual ($)', fontsize=16)
-    plt.ylabel('Año', fontsize=16)
-    plt.title('Evolución de salarios del 2018- 2023', fontsize=20)
+    plt.xlabel('Año', fontsize=16)
+    plt.ylabel('Salario promedio mensual ($)', fontsize=16)
+    plt.title('Evolución de Promedio de Salarios \n 2018 - 2023', fontsize=20)
     plt.tight_layout()
 
     plt.show()
@@ -683,7 +681,7 @@ def graf_cant_muni():
     fig, ax = plt.subplots()
     ax.pie(value, labels = labels, colors = colors, autopct='%1.1f%%', wedgeprops= {'linewidth': 1, "edgecolor": "black"})
     ax.axis('equal')
-    plt.title("Cantidad de Mipymes por municipio")
+    plt.title("Cantidad de Mipymes Analizadas por Municipio ")
 
     plt.show()
 
@@ -722,7 +720,6 @@ def names_prod():
                 continue
             if '_5' in j:
                 continue
-                continue
             if j not in p:
                 p.append(j)
     return p
@@ -730,7 +727,7 @@ def names_prod():
 """-------------------------------------------------------------------------------------"""
 #Graficos de salario y productos
 def graf_salario_prod():
-    A = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (250g)", "Huevo (Carton)"]
+    A = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (0.25kg)", "Huevo (Carton)"]
     B = [promedio_pri("Arroz"), promedio_pri("Pollo_Pechuga"),
          promedio_pri("Aceite"), promedio_pri("Cafe"), promedio_pri("Huevos")]
 
@@ -740,7 +737,7 @@ def graf_salario_prod():
     ax.bar(x=x, height=B, width=0.6, color="#FF69B4", edgecolor="w")
     ax.axhline(y=salario, color='magenta', linestyle='--', linewidth=2,
                label=f'Salario: ${salario:,.0f}')
-    plt.title('Productos que puedes comprar con el salario', style="italic")
+    plt.title('Productos Adquiribles con el Salario Promedio Mensual', style="italic")
     ax.set_xlabel('Productos')
     ax.set_ylabel('Promedio de precio')
     ax.set_xticks(x)
@@ -761,13 +758,13 @@ def save_dicc():
 #Grafica de productos y dias necesarios
 def graf_count_prod():
 
-    x = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (250g)", "Huevo (Carton)"]
+    x = ["Arroz (1kg)", "Pechuga (2kg)", "Aceite (1l)", "Cafe (0.25kg)", "Huevo (Carton)"]
     y = [promedio_pri("Arroz")/ salario_dia(), promedio_pri("Pollo_Pechuga")/ salario_dia(), promedio_pri("Aceite")/ salario_dia(), promedio_pri("Cafe")/ salario_dia(), promedio_pri("Huevos")/ salario_dia()]
 
 
     fig, ax = plt.subplots()
     ax.bar(x=x, height=y, width=0.6, color="#FF00FF", edgecolor="black")
-    plt.title('Promedio adquisitivo diario', style="italic")
+    plt.title('Promedio Adquisitivo Diario \n según Dias Laborales', style="italic")
     ax.set_xlabel('Productos')
     ax.set_ylabel('Dias necesarios')
     plt.xticks(rotation=45)
@@ -850,3 +847,11 @@ def graf_comp_usd_cup():
     plt.show()
 
 """-------------------------------------------------------------------------------------"""
+#Cantidad de municipios analizados
+def muni_cant():
+    conteo = {}
+    for i in data.get("Mipymes"):
+        municipio = i["Places"]["Municipality"]
+        conteo[municipio] = conteo.get(municipio, 0) + 1
+    for municipio, cantidad in conteo.items():
+        print(f"{municipio}: {conteo[municipio]}")

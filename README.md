@@ -69,21 +69,21 @@ La estructura se puede observar en `Template.json`
   "Mipymes": [
     {
       "Places": {
-        "id": "00",
-        "Name": "",
-        "Date": "",
-        "Municipality": "",
+        "id": str,
+        "Name": str,
+        "Date": str,
+        "Municipality": str,
         "Location": {
-          "Latitud": 0.00,
-          "Longitud": 0.00
+          "Latitud": float,
+          "Longitud": float
         },
         "Products": [
           {
             "Producto": {
-              "Brand": "",
-              "Cuantity": "unit",
-              "Weight": 0.0,
-              "Price": 0.0
+              "Brand": str,
+              "Cuantity": str,
+              "Weight": float,
+              "Price": float
             }
           }
         ]
@@ -100,9 +100,9 @@ Contiene los montos actuales de estipendios estudiantiles universitarias. Sirve 
 {
   "Student_Stipend": [
     {
-      "Academic_Year": "",
-      "Quantity": 000.0,
-      "Teaching_Aids": 000.0
+      "Academic_Year": str,
+      "Quantity": float,
+      "Teaching_Aids": float
     }
   ]
 }
@@ -116,11 +116,11 @@ Contiene los datos diarios de tasas de cambio informales recopilados del portal 
   "Tasa_de_Cambio": [
     {
       "Day": {
-        "id": 1,
-        "Date": "",
-        "EUR": 000.00,
-        "USD": 000.00,
-        "MLC": 000.00
+        "id": int,
+        "Date": str,
+        "EUR": float,
+        "USD": float,
+        "MLC": float
       }
     }
   ]
@@ -135,22 +135,22 @@ Contiene el registro de tiendas en La Habana que comercian exclusivamente en dó
   "Dolares": [
     {
       "Places": {
-        "id": "00",
-        "Name": "",
-        "Date": "",
-        "Curancy": "",
-        "Municipality": "",
+        "id": str,
+        "Name": str,
+        "Date": str,
+        "Curancy": str,
+        "Municipality": str,
         "Location": {
-          "Latitud": 0.00,
-          "Longitud": 0.00
+          "Latitud": float,
+          "Longitud": float
         },
         "Products": [
           {
             "Producto": {
-              "Brand": "",
-              "Cuantity": "unit",
-              "Weight": 0.0,
-              "Price": 0.0
+              "Brand": str,
+              "Cuantity": str,
+              "Weight": float,
+              "Price": float
             }
           }
         ]
@@ -167,8 +167,8 @@ Contiene los datos de distribución salarial organizados por sectores económico
 {
   "Money": [
     {
-      "Activity": "",
-      "Amount": 0000
+      "Activity": str,
+      "Amount": int
     }
   ]
 }
@@ -181,8 +181,8 @@ Contiene la serie histórica de los salarios promedio mensuales en Cuba desde 20
 {
   "Salary": [
     {
-      "Date": "2018",
-      "Amount": 0.0
+      "Date": str,
+      "Amount": float
     }
   ]
 }
@@ -195,8 +195,8 @@ Contiene los precios promedio calculados para cada producto básico en el mercad
 {
   "Productos": [
     {
-      "Nombre": "",
-      "Quantity": 0.0
+      "Nombre": str,
+      "Quantity": float
     }
   ]
 }
@@ -241,7 +241,6 @@ El salario inicial de un egresado universitario frecuentemente resulta insuficie
 * Jupyter
 * Python 3
 * Matplotlib
-* Squarify
 * Numpy
 * Folium
 
